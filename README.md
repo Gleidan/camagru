@@ -1,0 +1,2 @@
+# camagru
+Simple web-page
